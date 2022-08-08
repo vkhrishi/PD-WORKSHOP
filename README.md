@@ -71,5 +71,5 @@ Thanking VSD And team for such a great workshop
 
 # Acknowledgement
 
-- Kunal Ghosh, Co-founder (VSD Corp. Pvt. Ltd)
+- [Kunal Ghosh, Co-founder (VSD Corp. Pvt. Ltd)](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAeZe4ABRnXXgcvVesykjXO-9WZxOuR05PE&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BqJSnIKPZSSiz74LGs%2FY7sw%3D%3D)
 - Nickson Jose, VLSI Engineer
